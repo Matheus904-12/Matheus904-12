@@ -25,7 +25,7 @@
 ![Canva](https://img.shields.io/badge/Canva-0D1117?&style=for-the-badge&logo=Canva&logoColor=0D1117)&nbsp;
 ![Replit](https://img.shields.io/badge/replit-0D1117?style=for-the-badge&logo=replit&logoColor=0D1117)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=0D1117)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0D1117)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
  
 ### Meu conhecimento:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
