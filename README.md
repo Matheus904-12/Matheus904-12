@@ -17,15 +17,16 @@
 
  
 ### Plataformas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=0D1117)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=ffffff)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Framer](https://img.shields.io/badge/Framer-0D1117?style=for-the-badge&logo=framer&logoColor=0D1117)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-0D1117?&style=for-the-badge&logo=Canva&logoColor=0D1117)&nbsp;
-![Replit](https://img.shields.io/badge/replit-0D1117?style=for-the-badge&logo=replit&logoColor=0D1117)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=0D1117)&nbsp;
+![Framer](https://img.shields.io/badge/Framer-0D1117?style=for-the-badge&logo=framer&logoColor=blue)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-0D1117?&style=for-the-badge&logo=Canva&logoColor=ffffff)&nbsp;
+![Replit](https://img.shields.io/badge/replit-0D1117?style=for-the-badge&logo=replit&logoColor=FF0000)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=FFFFFF)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0052CC)&nbsp;
+![Android-Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=ffffff)&nbsp;
  
 ### Meu conhecimento:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
