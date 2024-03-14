@@ -47,7 +47,7 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Contagem de Visitantes</b></p>  
+<br><p align="centre"><b>Contagem de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Matheus904-12}/count.svg" /></p> 
 <br></div>
 
