@@ -16,7 +16,7 @@
 </div> 
 
  
-### Plataformas que utilizo:
+### Plataformas que eu utilizo:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=29f7ff)&nbsp;
@@ -29,7 +29,7 @@
 ![Android-Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=00BFFF)&nbsp;
 ![MySQL-Workbench](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=008B8B)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Xammp](https://img.shields.io/badge/Xammp-0D1117?style=for-the-badge&logo=xammp&labelColor=0D1117&textColor=0D1117)&nbsp;
+![XAMPP](https://img.shields.io/badge/XAMPP-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Meu conhecimento:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
