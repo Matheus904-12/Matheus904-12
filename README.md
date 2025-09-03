@@ -7,15 +7,6 @@
  <img src="https://komarev.com/ghpvc/?username=Matheus904-12&label=Profile%20views&color=0e75b6&style=flat" alt="Matheus Lucindo" /> 
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
 <br>
 
 <div align="center">
@@ -120,5 +111,4 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro conectar-me com pessoas diferentes</b>, então se quiser dizer <b>oi, ficarei feliz em te conhecer melhor!</b> :)</em>
 
-<br>
-<p align="right" > Criado com 🧡 por <a href="https://lucindoporto.netlify.app/">Matheus Lucindo</a></p>
+
