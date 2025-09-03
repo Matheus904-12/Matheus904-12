@@ -1,74 +1,124 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4b0082&height=120&section=header" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,100:4b0082&height=120&section=header" />
-</picture>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1👋%2C+Meu+nome+%C3%A9+Matheus+Lucindo+dos+Santos;Eu+tenho+18+anos+de+idade;Eu+sou+de+Ferraz+de+Vasconcelos%2C+SP;Eu+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+UMC;Seja+Bem-Vindo!+:%29" />
-  <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1👋%2C+Meu+nome+%C3%A9+Matheus+Lucindo+dos+Santos;Eu+tenho+18+anos+de+idade;Eu+sou+de+Ferraz+de+Vasconcelos%2C+SP;Eu+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+UMC;Seja+Bem-Vindo!+:%29" />
-</picture>
+<h1 align="center">Olá 👋, Eu sou Matheus Lucindo dos Santos</h1>
+<h3 align="center">Um Desenvolvedor Web Full Stack apaixonado por tecnologia e inovação</h3>
+<p align="center">Sou comunicativo e adoro aprender coisas novas. Organização e pontualidade são algumas das minhas principais características. Além disso, sou bem-humorado, calmo e focado, o que me permite enfrentar desafios com serenidade e eficiência. Estou sempre em busca de oportunidades que me permitam crescer profissionalmente e contribuir de forma significativa para a equipe. Meu objetivo é ingressar no mercado de trabalho na área de desenvolvimento de sistemas, com ênfase em programação, softwares e soluções tecnológicas inovadoras.</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Matheus904-12&label=Profile%20views&color=0e75b6&style=flat" alt="Matheus Lucindo" /> 
+</p>
 
-<div align="center">  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Matheus904-12&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheus904-12&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=007bff&text_color=24292e&bg_color=f8f9fa" alt="Matheus Lucindo github stats" /> 
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus904-12&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus904-12&layout=compact&hide_border=true&title_color=000000&text_color=24292e&bg_color=f8f9fa" />
-  </picture>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 Estou atualmente aberto a novas oportunidades de emprego ou estágio
+- 🌱 Estou aprendendo **Node.js, PHP, React.js e TypeScript**
+- 👨‍💻 Todos os meus projetos estão disponíveis em [meu portfólio](https://lucindoporto.netlify.app/)
+- 💬 Pergunte-me sobre **JavaScript, React Native, Node.js e PHP**
+- 📫 Como me contatar: **matheuslucindo904@gmail.com**
+- 📄 Saiba mais sobre minhas experiências [no meu CV](https://github.com/Matheus904-12/Matheus904-12/blob/main/CV%20de%20Matheus%20Lucindo%20dos%20Santos.pdf)
+- ⚡ Fato divertido: **Acho que sou engraçado**
+
+<br>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/matheus-lucindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matheus Lucindo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/matheus_lucindo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheus_lucindo" height="30" width="40" /></a>
+<a href="https://github.com/Matheus904-12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Matheus904-12" height="30" width="40" /></a>
+</p>
+<br>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,php,express" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,bootstrap,html,css" />
+  </a>
+</p>
+
+- Banco de Dados
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+- Ferramentas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">Troféus:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Matheus904-12&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Matheus904-12&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+</div>
+<br><br>
+
+<h3 align="left">Estatísticas do GitHub:</h3>
+<div align="center">
+ 
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus904-12&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
+
+</div>
+
+<br><br>
+
+<h3 align="left">Atividade:</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Matheus904-12&bg_color=0d1117&color=ffffff&line=4b0082&point=ffffff&area=true&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus904-12&bg_color=f8f9fa&color=000000&line=4b0082&point=000000&area=true&hide_border=true" />
 </picture>
 
-<div align="center">  
-  <a href="https://www.instagram.com/matheus_lucindo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/matheus-lucindo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://lucindoporto.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-</div> 
+<br><br>
 
-### Plataformas que eu utilizo:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-### Meu conhecimento:
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Estou estudando neste momento:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<h3 align="left">Contribuições Pacman:</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4b0082&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f8f9fa,100:4b0082&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus904-12/Matheus904-12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus904-12/Matheus904-12/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Matheus904-12/Matheus904-12/output/pacman-contribution-graph.svg">
 </picture>
 
-<p>Meu nome é Matheus Lucindo dos Santos, tenho 18 anos e sou um desenvolvedor web full stack com uma paixão genuína por tecnologia. Sou comunicativo, adoro aprender coisas novas e destaco-me pela organização, pontualidade, bom humor, calma e foco, qualidades que me permitem enfrentar desafios com serenidade e eficiência. Essas características, combinadas com meu entusiasmo por inovação, me impulsionam a buscar constantemente oportunidades de crescimento e a contribuir de forma significativa para qualquer equipe.</p>
+<br><br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro conectar-me com pessoas diferentes</b>, então se quiser dizer <b>oi, ficarei feliz em te conhecer melhor!</b> :)</em>
+
 <br>
-<p>Recentemente, fui aprovado na iniciação científica da UMC para um projeto privado, o que reflete meu interesse em pesquisa e desenvolvimento tecnológico. Estou dividido entre seguir uma carreira acadêmica, aprofundando-me em estudos e contribuindo para o avanço do conhecimento, ou optar pela governança de TI, onde poderei gerenciar projetos e liderar equipes com impacto estratégico. Essa dualidade me motiva a explorar ambos os caminhos, sempre buscando entregar resultados consistentes e de qualidade enquanto evoluo profissionalmente.</p>
+<p align="right" > Criado com 🧡 por <a href="https://lucindoporto.netlify.app/">Matheus Lucindo</a></p>
