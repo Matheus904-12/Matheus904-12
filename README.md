@@ -23,33 +23,15 @@
 
 <br>
 
-<h2 align="center">🚀 Minhas Habilidades e Ferramentas</h2>
+<h2 align="center">🚀 Habilidades e Ferramentas</h2>
 
 <div align="center">
   <h3>Linguagens e Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,react" alt="Linguagens e Frameworks"/>
   <h3>Banco de Dados</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Banco de Dados"/>
   <h3>Ferramentas e Plataformas</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma,notion,trello,androidstudio,vercel,netlify" alt="Ferramentas e Plataformas"/>
 </div>
 
 <hr>
@@ -61,7 +43,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">🕹️ Minha Atividade Recente</h2>
+  <h2 align="center">🕹️ Minha Atividade no GitHub</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus904-12/Matheus904-12/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus904-12/Matheus904-12/output/pacman-contribution-graph.svg">
