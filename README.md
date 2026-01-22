@@ -1,7 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0081&height=120&section=header"/>
-  
-<div align="center">  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Matheus904-12&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4b0081&height=120&section=header"/>
+
+<div align="center">
+  <a href="https://github.com/Matheus904-12">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Matheus904-12&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Stats" />
+  </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0081&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4b0081&height=120&section=footer"/>
