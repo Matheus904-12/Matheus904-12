@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Matheus904-12">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Matheus904-12&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Stats" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=Matheus904-12&data=followers,repositories,commits&theme=nautilus" alt="GitHub Stats" />
   </a>
 </div>
 
