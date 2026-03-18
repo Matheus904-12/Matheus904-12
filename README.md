@@ -5,7 +5,6 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Matheus904-12&data=followers,repositories,commits&theme=nautilus" alt="GitHub Stats" />
   </a>
 
-  # Matheus
   **Junior Software Developer & Analyst @ BCR.CX**
   *Team Channels*
 </div>
